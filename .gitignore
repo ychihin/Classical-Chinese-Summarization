@@ -1,2 +1,5 @@
 
 data/**/*.txt
+!data/raw/sample/
+!data/raw/sample/**/*.txt
+notebooks/experiment*
