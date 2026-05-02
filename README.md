@@ -26,8 +26,8 @@ Reference paper:
 │       └── metrics.py          # chrF / BLEU / edit similarity / length ratio helpers
 ├── notebooks/
 │   ├── trans_and_eval.ipynb    # Early translation + evaluation workflow
-│   ├── hansum_summarize_generate.ipynb
-│   ├── hansum_eval_summary_llm.ipynb
+│   ├── hansum_summarize_generate.ipynb # Summary Generation
+│   ├── hansum_eval_summary_llm.ipynb   # Summary Evaluation with LLM
 │   └── textrank_summary.ipynb
 ├── scripts/
 │   ├── evaluate_round_trip.py      # Single-corpus round-trip evaluation
